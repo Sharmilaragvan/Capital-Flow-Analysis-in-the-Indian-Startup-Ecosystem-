@@ -1,4 +1,5 @@
-<img width="1712" height="803" alt="startup" src="https://github.com/user-attachments/assets/613706c7-d504-4858-ab92-138fb57614eb" />
+<img width="1712" height="803" alt="startup" src="https://github.com/user-attachments/assets/55ac8441-9fed-47dd-ad6e-0d3dde559693" />
+
 # Capital-Flow-Analysis-in-the-Indian-Startup-Ecosystem-
 Interactive Power BI dashboard visualizing funding trends, investor activity, and deal analysis across the Indian startup ecosystem.
 
@@ -142,6 +143,4 @@ Feel free to open an issue or reach out if you'd like to collaborate or have que
 
 > **Note:** All funding figures are approximate and aggregated for analytical purposes. Data sourced from publicly available Indian startup funding records.
 
----
 
-You can paste this directly into your `README.md` file on GitHub. Want me to generate this as an actual `.md` file you can download?
