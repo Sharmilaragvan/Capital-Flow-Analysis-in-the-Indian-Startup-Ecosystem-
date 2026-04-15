@@ -1,3 +1,4 @@
+<img width="1712" height="803" alt="startup" src="https://github.com/user-attachments/assets/613706c7-d504-4858-ab92-138fb57614eb" />
 # Capital-Flow-Analysis-in-the-Indian-Startup-Ecosystem-
 Interactive Power BI dashboard visualizing funding trends, investor activity, and deal analysis across the Indian startup ecosystem.
 
@@ -126,7 +127,7 @@ Compares current period funding against last year's baseline with goal variance 
 ##  How to Use
 
 1. Clone or download this repository
-2. Open `startup_dashboard.pbix` in **Power BI Desktop**
+2. Open "C:\Users\ASTA\Downloads\startup project last saved.pbix"  in **Power BI Desktop**
 3. If needed, update the data source path under **Transform Data → Data Source Settings**
 4. Use the **Year slicer** to filter by a specific funding period
 5. Hover over charts for detailed tooltips; click to cross-filter other visuals
